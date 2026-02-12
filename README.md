@@ -1,4 +1,4 @@
-# Analisis Komputasi Kuantum: Sensor Gas Berbasis $MoS_2$ 🇮🇩
+# Analisis Komputasi Kuantum: Sensor Gas Berbasis $MoS_2$ 
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Method](https://img.shields.io/badge/Method-DFT_%2F_Ab--Initio-blue)
