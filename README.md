@@ -1,4 +1,4 @@
-# Analisis Komputasi Kuantum: Sensor Gas Berbasis $MoS_2$ 
+#Simulasi MoS₂ Dua Dimensi untuk Aplikasi Sensor Gas
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Method](https://img.shields.io/badge/Method-DFT-blue)
