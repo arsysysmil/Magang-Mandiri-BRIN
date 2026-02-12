@@ -1,7 +1,7 @@
 # Analisis Komputasi Kuantum: Sensor Gas Berbasis $MoS_2$ 
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![Method](https://img.shields.io/badge/Method-DFT_%2F_Ab--Initio-blue)
+![Method](https://img.shields.io/badge/Method-DFT-blue)
 ![Engine](https://img.shields.io/badge/Engine-Quantum_ESPRESSO-orange)
 
 > **Laporan Akhir Kerja Praktik (Magang) MBKM Mandiri**
